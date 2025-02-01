@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me xcrutor@gmail.com
 - 😄 Pronouns: 🕊️ am a bird 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Gian ho aap 
 
 <!---
 5h0xib/5h0xib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
