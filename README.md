@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @5h0xib
-- 👀 I’m interested in Creating 
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Web Apps
-- 📫 How to reach me xcrutor@gmail.com
-- 😄 Pronouns: 🕊️ am a bird 
-- ⚡ Fun fact: Gian ho aap 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;Welcome+to+my+digital+nest+🪺" alt="Typing Animation">
+</div>
 
-<!---
-5h0xib/5h0xib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🦚 About Your Neighborhood Developer
+
+```json
+{
+  "name": "Shoxib",
+  "role": "Web Artisan in Training",
+  "current_mission": "Conquering the Web Development Universe",
+  "tools": ["HTML5", "CSS3", "JavaScript", "React", "Node.js"],
+  "superpower": "Turning ☕ into code",
+  "spirit_animal": "🕊️ Free as a bird"
+}
