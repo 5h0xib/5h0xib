@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;Welcome+to+my+digital+nest+🪺" alt="Typing Animation">
-</div>
-
----
 
 ### 🦚 About Your Neighborhood Developer
 
